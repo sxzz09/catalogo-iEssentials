@@ -1,0 +1,38 @@
+import { Product } from '@/types';
+
+export const PRODUCTS: Product[] = [
+  {
+    id: 'airpods-pro-2',
+    name: 'AirPods Pro (2.ª gen)',
+    category: 'audio',
+    tagline: 'Cancelación Activa de Ruido Pro y Audio Espacial',
+    description: 'Chip H2 de última generación, estuche MagSafe (USB-C) con altavoz y enganche para correa. Calidad acústica superior con ecualización adaptativa.',
+    specs: ['Chip H2 Apple', 'Cancelación de Ruido 2x', 'Autonomía de hasta 30h', 'Estuche MagSafe USB-C'],
+    detalPrice: 25.0,
+    mayoristaPrice: 11.5,
+    minMayoristaQty: 3,
+    inStock: true,
+    featured: true,
+    badge: 'Más Vendido',
+    iconName: 'Headphones',
+    image: '/images/airpods.png',
+    accentColor: '#3b82f6',
+  },
+  {
+    id: 'cargador-20w-usbc',
+    name: 'Cargador Lightning USB-C 20W',
+    category: 'carga',
+    tagline: 'Carga rápida y eficiente en casa o donde estés',
+    description: 'Diseño compacto y eficiente. Carga el 50% de la batería de tu iPhone en solo 30 minutos. Circuitería con protección térmica inteligente.',
+    specs: ['Salida 20W USB-PD', 'Protección contra sobrecargas', 'Voltaje universal 100-240V', 'Certificación CE/FCC'],
+    detalPrice: 15.0,
+    mayoristaPrice: 3.0,
+    minMayoristaQty: 3,
+    inStock: true,
+    featured: true,
+    badge: 'Esencial',
+    iconName: 'Zap',
+    image: '/images/charger.png',
+    accentColor: '#10b981',
+  },
+];
