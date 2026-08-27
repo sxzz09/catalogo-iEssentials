@@ -30,6 +30,6 @@ export interface CustomerInfo {
   name: string;
   phone: string;
   companyOrId: string;
-  paymentMethod: 'zelle' | 'pago_movil' | 'binance' | 'efectivo' | 'transferencia';
+  paymentMethod: 'zinli' | 'pago_movil' | 'binance' | 'efectivo' | 'transferencia';
   notes: string;
 }
