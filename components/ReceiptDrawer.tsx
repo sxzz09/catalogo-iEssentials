@@ -233,10 +233,10 @@ export function ReceiptDrawer() {
                       }`}
                   >
                     <div className="inline-flex items-center justify-center gap-1 font-bold text-lg tracking-tighter">
-                      <span className="text-xl"></span> iEssentials
+                      <span className="text-xl"></span> iEssentials
                     </div>
                     <p className="text-[11px] opacity-70 tracking-wide uppercase">
-                      Premium Apple Ecosystem & Accessories
+                      Apple Accessories
                     </p>
                     <div className="mt-2 flex items-center justify-between text-[11px] font-mono opacity-80 border-t border-zinc-200 dark:border-zinc-800 pt-2">
                       <span>ORDEN: {orderId}</span>

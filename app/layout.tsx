@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: 'iEssentials | Catálogo',
   description: 'Catálogo de accesorios Apple de alta gama para compra al Detal y al Mayor.',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/icon.ico',
   },
 };
 
