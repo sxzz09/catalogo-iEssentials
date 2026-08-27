@@ -36,7 +36,7 @@ const initialCustomerInfo: CustomerInfo = {
   name: '',
   phone: '',
   companyOrId: '',
-  paymentMethod: 'zelle',
+  paymentMethod: 'zinli',
   notes: '',
 };
 
