@@ -42,3 +42,6 @@ npm install
 npm run dev
 
 Open on your browser: http://localhost:3000
+```
+
+> **Source Available:** This codebase is public for inspection and code preview purposes only. Reproduction, copying, fork-hosting, or commercial use of any code, design elements, or assets from this repository is strictly prohibited without explicit written permission.
