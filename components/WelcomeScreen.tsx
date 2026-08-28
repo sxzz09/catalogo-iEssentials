@@ -159,7 +159,7 @@ export function WelcomeScreen() {
                 }}
                 className="w-full flex items-center justify-between rounded-2xl bg-white px-5 py-3.5 text-sm font-bold text-black shadow-xs transition-all duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] hover:bg-zinc-200 active:scale-[0.98]"
               >
-                <span>Ver Tarifas Mayoristas</span>
+                <span>Ver Catálogo Mayorista</span>
                 <ArrowRight className="h-4 w-4 transition-transform duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:translate-x-1" />
               </button>
             </div>
