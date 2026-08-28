@@ -103,7 +103,7 @@ export function ProductGrid() {
               </div>
               <span className="text-[11px] opacity-70 flex items-center gap-1 justify-center mt-0.5">
                 <Sparkles className="h-3 w-3 text-amber-500" />
-                Se actualiza cada 10 minutos.
+                Se actualiza cada día.
               </span>
             </div>
           </div>
