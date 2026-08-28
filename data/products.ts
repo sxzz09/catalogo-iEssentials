@@ -26,7 +26,7 @@ export const PRODUCTS: Product[] = [
     description: 'Diseño compacto y eficiente. Carga el 50% de la batería de tu iPhone en solo 30 minutos. Circuitería con protección térmica inteligente.',
     specs: ['Salida 20W USB-PD', 'Protección contra sobrecargas', 'Voltaje universal 100-240V', 'Certificación CE/FCC'],
     detalPrice: 15.0,
-    mayoristaPrice: 3.0,
+    mayoristaPrice: 7.5,
     minMayoristaQty: 3,
     inStock: true,
     featured: true,
