@@ -9,7 +9,7 @@ export const PRODUCTS: Product[] = [
     description: 'Chip H2 de última generación, estuche MagSafe (USB-C) con altavoz y enganche para correa. Calidad acústica superior con ecualización adaptativa.',
     specs: ['Chip H2 Apple', 'Cancelación de Ruido 2x', 'Autonomía de hasta 30h', 'Estuche MagSafe USB-C'],
     detalPrice: 25.0,
-    mayoristaPrice: 11.5,
+    mayoristaPrice: 12.5,
     minMayoristaQty: 3,
     inStock: true,
     featured: true,
